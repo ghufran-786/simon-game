@@ -1,4 +1,4 @@
 # simon game project
 
-simon game 
+Simon Game 
 created by Ghufran Husain.
